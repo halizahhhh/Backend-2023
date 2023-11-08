@@ -29,8 +29,6 @@ class StudentController extends Controller
 			return response()->json($response, 200);
 		}
 	}
-
-
     /**
      * Show the form for creating a new resource.
      */
